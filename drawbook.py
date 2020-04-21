@@ -29,9 +29,9 @@ height = 793.70
 
 psReplaceSelection = 1
 
-fcoverPATH  = r"C:\Users\Anouar\Desktop\draw-book\test_images\front.jpg"
-bcoverPATH  = r"C:\Users\Anouar\Desktop\draw-book\test_images\back.jpg"
-spcoverPATH = r"C:\Users\Anouar\Desktop\draw-book\test_images\spine.jpg"
+fcoverPATH  = r"PATH FRONT.jpg"
+bcoverPATH  = r"PATH BACK.jpg"
+spcoverPATH = r"PATH SPINE.jpg"
 try:
     app = GetActiveObject("Photoshop.Application")
     # RulerUnits=1 Pixel.
